@@ -1,5 +1,5 @@
-# server-creation
+# Server Creation
 
 Practice building temporary server connections.
 
-For the Coding Bootcamp at UT Austin.
+A practice assignment for the Coding Bootcamp at UT Austin.
